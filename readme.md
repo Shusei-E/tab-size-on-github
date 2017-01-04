@@ -1,6 +1,6 @@
 # Tab Size on GitHub
 
-> Chrome extension - Make tab indented code more readable by forcing the tab size to 2 ~4~ instead of 8 
+> Chrome extension - Make tab indented code more readable by forcing the tab size to 2 instead of 8 
 
 It's intentionally simple and I'm not interested in adding anything more to it.
 
